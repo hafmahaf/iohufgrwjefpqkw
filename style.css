@@ -1,0 +1,76 @@
+h1 {
+  text-align: center;
+  font-family: "Share Tech Mono", monospace;
+}
+h2 {
+  text-align: center;
+  font-family: "Share Tech Mono", monospace;
+}
+.image {
+  width: 300px;
+}
+.upgrade {
+  width: 250px;
+  border: darkred solid 3px;
+  position: absolute;
+  font-family: "Share Tech Mono", monospace;
+}
+p {
+  text-align: center;
+  font-family: "Share Tech Mono", monospace;
+}
+.image:hover {
+  width: 295px;
+  cursor: pointer;
+}
+.img {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn2,
+.btn1,
+.btn3:hover {
+  cursor: pointer;
+  outline: none;
+}
+.boost {
+  position: absolute;
+  margin-left: 1455px;
+  width: 200px;
+  border: darkblue solid;
+  font-family: "Share Tech Mono", monospace;
+}
+#number {
+  font-family: "Space Mono", monospace;
+}
+.amount1 {
+  text-align: center;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: -20px;
+}
+.amount-of-upgrades {
+  border: solid green 3px;
+  width: 650px;
+  height: 100px;
+}
+.gpu-img {
+  margin-left: 55px;
+  margin-top: 25px;
+  position: absolute;
+}
+.amount2 {
+  position: absolute;
+  margin-left: 350px;
+  margin-top: -20px;
+}
+.cpu-img {
+  position: absolute;
+  margin-left: 265px;
+}
+.amount3 {
+  position: absolute;
+  margin-left: 555px;
+  margin-top: -20px;
+}
